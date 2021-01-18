@@ -1,0 +1,20 @@
+
+public class NumerosPrimos {
+	
+	int numero ;
+	int divisor = 2;
+	
+	
+	
+	public NumerosPrimos(int numero, int divisor) {
+		super();
+		this.numero = numero;
+		this.divisor = divisor;
+	}
+
+
+
+	public void VerificaNumeroPrimo(NumerosPrimos n) {
+		
+	}
+}

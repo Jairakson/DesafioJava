@@ -1,0 +1,13 @@
+
+public class TesteNumerosprimos {
+
+		public static void main(String[] args) {
+		
+		NumerosPrimos numero =  new NumerosPrimos(3);
+		numero.VerificaNumeroPrimo(numero);
+		
+	}
+	
+	
+}
+

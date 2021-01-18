@@ -1,0 +1,22 @@
+
+public class NumerosPrimos {
+	
+	int n ;
+	
+	public NumerosPrimos(int n) {
+		this.n = n;
+	}
+
+	public static void ehPrimo(int numero){
+		for (int  i = 2; i < numero; i++) {
+			if ( numero % i == 0) {
+				System.out.println("not a prime number");
+			}else {
+				System.out.println("prime number");
+			}
+		}
+	}
+}
+
+
+

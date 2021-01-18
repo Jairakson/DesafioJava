@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Listas.ListaPremiun&apos; to &apos;ListaA&apos;&#x0D;&#x0A;- Original project: &apos;InterseccaodeListas&apos;&#x0D;&#x0A;- Original element: &apos;Listas.ListaPremiun&apos;&#x0D;&#x0A;- Renamed element: &apos;Listas.ListaA&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ListaPremiun&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Listas{ListaPremiun.java[ListaPremiun" matchStrategy="1" name="ListaA" qualified="false" references="true" similarDeclarations="false" stamp="1610666443885" textual="false" version="1.0"/>
+</session>

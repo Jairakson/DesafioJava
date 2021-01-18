@@ -1,0 +1,18 @@
+
+public class NumerosPrimos {
+	
+	int numero ;
+	int divisor = 2;
+	
+	
+	
+	public NumerosPrimos(int numero) {
+		this.numero = numero;
+	}
+
+
+
+	public void VerificaNumeroPrimo(NumerosPrimos n) {
+		
+	}
+}

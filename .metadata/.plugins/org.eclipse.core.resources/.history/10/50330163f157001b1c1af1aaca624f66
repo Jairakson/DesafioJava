@@ -1,0 +1,29 @@
+
+public class NumerosPrimos {
+	
+	int numero;
+	
+	public NumerosPrimos(int numero) {
+		this.numero = numero;
+	}
+
+	public int getNumero() {
+		return numero;
+	}
+	
+	public void VerificaNumeroPrimo(NumerosPrimos n) {
+			
+		
+			for (int i = 2; i <= ;  i++){
+				if(numero%i==0) {
+					System.out.println("prime number");
+				}else {
+					System.out.println("not a prime number");
+				}
+				break;
+			}
+		}
+}
+
+
+
